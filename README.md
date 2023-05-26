@@ -12,3 +12,5 @@ In override mode, servos move to a predetermined position.
 
 * Potentiometer reading is mapped to servo positions for user control
 
+* Servo movements are smoothed using a delay for improved performance
+
